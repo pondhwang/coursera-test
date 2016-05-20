@@ -14,6 +14,7 @@ body {
   background-color: #A52A2A;
   width=100px;
   height=30px;
+  float: right;
 }
 #p2 {
   background-color: #DEB887;
@@ -42,6 +43,7 @@ div {
   font-weight: none;
   color: black;
   clear: left;
+
 }
 
 /********** Large devices only **********/
