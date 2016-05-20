@@ -30,10 +30,13 @@ body {
 div {
   padding: 15px;
 }
-.row > div > p {
+.row > div > div {
+  background-color: gray;
+}
+.row > div > div > p {
   margin: 15px;
   border: 2px solid black;
-  background-color: gray;
+  background-color: pink;
   padding: 15px;
   font-family:  "Times New Roman", Times, serif;
   font-weight: none;
