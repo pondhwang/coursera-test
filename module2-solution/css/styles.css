@@ -14,7 +14,7 @@ body {
   background-color: #A52A2A;
   width=100px;
   height=20px;
-  float: right;
+  float: top right;
 }
 #p2 {
   background-color: #DEB887;
