@@ -22,9 +22,10 @@ body {
   height=20px;
   float: right;
 }
+
 #p3 {
   background-color: #5F9EA0;
-    width=100px;
+  width=100px;
   height=20px;
   float: right;
 
@@ -42,7 +43,7 @@ div {
 .row > div > div {
   margin: 15px;
   border: 2px solid black;
-  background-color: pink;
+  background-color: gray;
   padding: 15px;
   font-family:  "Times New Roman", Times, serif;
   font-weight: none;
