@@ -1,6 +1,8 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 h1 {
   margin-bottom: 15px;
@@ -15,6 +17,15 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+}
+
+.row > div > p {
+  border: 2px solid black;
+  background-color: gray;
+  padding: 15px;
+  font-family:  "Times New Roman", Times, serif;
+  font-weight: none;
+  color: black;
 }
 
 /* Simple Responsive Framework. */
