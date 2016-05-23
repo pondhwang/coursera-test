@@ -34,12 +34,12 @@ body {
 .row > div {
   border: 2px solid black;
   margin-bottom: 15px;
+  background-color: lightgray;
 
 }
 
 .row > div > p {
-  border: 2px solid black;
-  background-color: gray;
+  border: 2px solid black; 
   text-align: center;
   height: 20px;
   width: 100px;
